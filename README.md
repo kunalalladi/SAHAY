@@ -106,15 +106,15 @@ Welcome to the **Disaster Management App**, a comprehensive and intuitive platfo
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: space-evenly;">
 
-   <img src="assets/screenshots/home.jpg" alt="Home Screen" width="280" >
-   <img src="assets/screenshots/disaster_preparedness.jpg" alt="Disaster Preparedness" width="280" >
-   <img src="assets/screenshots/maps.jpg" alt="Maps Screen" width="280">
-   <img src="assets/screenshots/menu.jpg" alt="Menu Screen" width="280">
-   <img src="assets/screenshots/news.jpg" alt="News Screen" width="280">
-   <img src="assets/screenshots/notification.jpg" alt="Notifications Screen" width="280">
-   <img src="assets/screenshots/profile.jpg" alt="Profile Screen" width="280">
-   <img src="assets/screenshots/welcome.jpg" alt="Welcome Screen" width="280">
-   <img src="assets/screenshots/weather_sc.jpg" alt="Weather Screen" width="280">
+   <img src="assets/screenshots/home.jpg" alt="Home Screen" width="260" >
+   <img src="assets/screenshots/disaster_preparedness.jpg" alt="Disaster Preparedness" width="260" >
+   <img src="assets/screenshots/maps.jpg" alt="Maps Screen" width="260">
+   <img src="assets/screenshots/menu.jpg" alt="Menu Screen" width="260">
+   <img src="assets/screenshots/news.jpg" alt="News Screen" width="260">
+   <img src="assets/screenshots/notification.jpg" alt="Notifications Screen" width="260">
+   <img src="assets/screenshots/profile.jpg" alt="Profile Screen" width="260">
+   <img src="assets/screenshots/welcome.jpg" alt="Welcome Screen" width="260">
+   <img src="assets/screenshots/weather_sc.jpg" alt="Weather Screen" width="260">
 
 </div>
 ---

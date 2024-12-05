@@ -104,7 +104,7 @@ Welcome to the **Disaster Management App**, a comprehensive and intuitive platfo
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 100px; justify-content: center;">
 
    <img src="assets/screenshots/home.jpg" alt="Home Screen" width="200" height="500">
    <img src="assets/screenshots/disaster_preparedness.jpg" alt="Disaster Preparedness" width="200" height="500">

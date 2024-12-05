@@ -1,0 +1,57 @@
+{
+    "disasters": [
+      {
+        "type": "flood",
+        "resources": [
+          {
+            "title": "Flood Preparedness Guide",
+            "link": "https://www.youtube.com/watch?v=2qa3jFHEdAI"
+          },
+          {
+            "title": "How to Stay Safe During a Flood",
+            "link": "https://www.youtube.com/watch?v=r252gWJEX0g"
+          }
+        ]
+      },
+      {
+        "type": "heatwave",
+        "resources": [
+          {
+            "title": "Heatwave Preparedness Tips",
+            "link": "https://www.youtube.com/watch?v=bqY_weKxrqI"
+          },
+          {
+            "title": "Protect Yourself in Extreme Heat",
+            "link": "https://www.youtube.com/watch?v=Cc6IeFCBGp8"
+          }
+        ]
+      },
+      {
+        "type": "earthquake",
+        "resources": [
+          {
+            "title": "Earthquake Safety Tips",
+            "link": "https://www.youtube.com/watch?v=OWDAJejdcBQ"
+          },
+          {
+            "title": "How to Survive an Earthquake",
+            "link": "https://www.youtube.com/watch?v=rq9-26_Jkpw"
+          }
+        ]
+      },
+      {
+        "type": "thunderstorm",
+        "resources": [
+          {
+            "title": "Thunderstorm Safety Guide",
+            "link": "https://www.youtube.com/watch?v=bMXuSc0uVVQ"
+          },
+          {
+            "title": "Stay Safe During Severe Thunderstorms",
+            "link": "https://www.youtube.com/watch?v=RKTBtT8wg7o"
+          }
+        ]
+      }
+    ]
+  }
+  

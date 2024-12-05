@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "sahay",
+    "slug": "sahay",
+    "plugins": [
+      "@react-native-firebase/app",
+      "@react-native-firebase/auth",
+      
+      "expo-router",
+      "expo-location"
+      
+
+    ],
+    "newArchEnabled": true,
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "softwareKeyboardLayoutMode": "pan",
+      "googleServicesFile": "./google-services.json",
+      "googleMapsApiKey": "AIzaSyAbsiiK3o8h33gL4kT-Tnn_gLL8aTr2ezw",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.kunal_alladi.sahay"
+      
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "config":{
+      "googleMaps":{
+        "apiKey":"AIzaSyAbsiiK3o8h33gL4kT-Tnn_gLL8aTr2ezw"
+      }
+    }
+  }
+}

@@ -1,0 +1,649 @@
+{
+  "disasters": [
+    {
+      "type": "flood",
+      "dos": [
+        {
+          "advice": "Move to higher ground immediately",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Stay informed via radio or weather apps",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Prepare an emergency kit in advance",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Keep important documents in waterproof containers",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Follow evacuation orders promptly",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Keep your cell phone fully charged",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Fill bathtubs and large containers with clean water",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Stock up on non-perishable food items",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Have a battery-powered radio ready",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Keep emergency contact numbers handy",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Install check valves in plumbing",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Elevate electrical system components",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Take photos of property for insurance",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Create a family communication plan",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Learn your area's flood risk",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Sign up for emergency alerts",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Keep emergency supplies in your vehicle",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Maintain proper insurance coverage",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Learn multiple evacuation routes",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Keep drainage systems clear",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Store valuables on upper floors",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Keep pets inside and safe",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Have sandbags ready if needed",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Monitor local weather updates constantly",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Keep emergency cash on hand",
+          "image": "flood_image"
+        }
+      ],
+      "donts": [
+        {
+          "advice": "Don't drive through flooded roads",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't wade through floodwaters",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't ignore evacuation orders",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't touch electrical equipment if wet",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't drink flood water",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't return home until authorities declare it safe",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't use appliances that have been flooded",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't walk through moving water",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't let children play in flood water",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't remove manhole covers",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't stay in low-lying areas",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't cross bridges over fast-moving water",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't rely solely on social media for updates",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't forget to turn off utilities if ordered",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't leave pets behind",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't store valuables in basements",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't assume shallow water is safe",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't use contaminated water",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't forget to document damage",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't skip tetanus shots if exposed",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't open windows during flooding",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't drive around barricades",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't underestimate water power",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't forget to check on neighbors",
+          "image": "flood_image"
+        },
+        {
+          "advice": "Don't panic and stay focused",
+          "image": "flood_image"
+        }
+      ]
+    },
+    {
+      "type": "heatwave",
+      "dos": [
+        {
+          "advice": "Stay hydrated by drinking plenty of water",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Wear light and loose clothing",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Use sunscreen regularly",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Stay in air-conditioned spaces",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Check on elderly neighbors",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Take frequent breaks in shade",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Keep pets indoors",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Close curtains during peak hours",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Use fans for air circulation",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Eat light, cool meals",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Take cool showers",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Wear a hat outdoors",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Carry water when traveling",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Know heat exhaustion symptoms",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Plan activities for cooler hours",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Keep emergency numbers handy",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Maintain proper ventilation",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Use UV-protective eyewear",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Monitor weather forecasts",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Stay in shadiest areas possible",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Keep medicines at proper temperature",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Use cooling centers if needed",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Maintain proper salt intake",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Keep emergency power banks",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Have backup cooling methods ready",
+          "image": "heatwave_image"
+        }
+      ],
+      "donts": [
+        {
+          "advice": "Don't avoid direct sun exposure during peak hours",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't engage in intense outdoor activities",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't leave children in cars",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't leave pets in vehicles",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't drink alcohol excessively",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't wear dark clothing",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't skip meals",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't ignore warning signs of heat illness",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't exercise during peak heat",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't take salt tablets unless prescribed",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't stay in parked cars",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't rely on fans as primary cooling",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't wear tight clothing",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't use stoves unnecessarily",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't forget to replenish electrolytes",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't ignore weather warnings",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't overexert yourself",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't leave windows open during peak heat",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't forget to acclimatize",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't use excessive bedding",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't take hot showers",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't eat heavy meals",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't ignore dehydration signs",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't forget sunscreen reapplication",
+          "image": "heatwave_image"
+        },
+        {
+          "advice": "Don't work outside unnecessarily",
+          "image": "heatwave_image"
+        }
+      ]
+    },
+    {
+      "type": "earthquake",
+      "dos": [
+        {
+          "advice": "Drop, cover, and hold on",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Stay away from windows and heavy objects",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Create an emergency plan",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Secure heavy furniture",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Keep emergency supplies ready",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Practice earthquake drills",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Know safe spots in each room",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Keep important documents accessible",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Learn how to shut off utilities",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Have a battery-powered radio",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Keep emergency contact list",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Store water and non-perishables",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Have a fire extinguisher ready",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Keep shoes near your bed",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Install latches on cabinets",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Know your building's safe spots",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Keep flashlights accessible",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Have a first aid kit ready",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Learn basic first aid",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Keep emergency cash",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Know assembly points",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Keep communication devices charged",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Have backup batteries",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Know evacuation routes",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Have emergency lighting ready",
+          "image": "earthquake_image"
+        }
+      ],
+      "donts": [
+        {
+          "advice": "Don't run outside during shaking",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't use elevators during an earthquake",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't stand in doorways",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't light matches or flames",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't panic and run",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't use electrical switches",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't stay near windows",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't use phones except emergencies",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't drive unless necessary",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't return home without clearance",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't ignore aftershocks",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't forget to check for injuries",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't move severely injured people",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't stay in damaged buildings",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't spread rumors",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't use matches near damage",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't touch downed power lines",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't ignore official instructions",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't forget to check water safety",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't leave heavy objects unsecured",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't skip building inspections",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't forget insurance documentation",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't ignore structural damage",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't forget to help neighbors",
+          "image": "earthquake_image"
+        },
+        {
+          "advice": "Don't use electrical switches",
+          "image": "earthquake_image"
+        }
+      ]
+
+    },
+    {
+      "type": "thunderstorm",
+      "dos": [
+        {
+          "advice": "Stay indoors and away from windows.",
+          "image": "thunderstorm_image"
+        },
+        {
+          "advice": "Unplug electronics to avoid surge damage.",
+          "image": "thunderstorm_image"
+        }
+      ],
+      "donts": [
+        {
+          "advice": "Do not take shelter under trees.",
+          "image": "thunderstorm_image"
+        },
+        {
+          "advice": "Avoid using electrical appliances during the storm.",
+          "image": "thunderstorm_image"
+        }
+      ]
+    }
+  ]
+}

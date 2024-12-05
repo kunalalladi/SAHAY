@@ -103,16 +103,17 @@ Welcome to the **Disaster Management App**, a comprehensive and intuitive platfo
 ---
 
 ## Screenshots
-![home](assets/screenshots/home.jpg =600x200)
-![disaster preparedness](assets/screenshots/disaster_preparedness.jpg =600x200)
-![maps](assets/screenshots/maps.jpg =600x200)
-![menu](assets/screenshots/menu.jpg =600x200)
-![news](assets/screenshots/news.jpg =600x200)
-![notifications](assets/screenshots/notification.jpg =600x200)
-![profile](assets/screenshots/profile.jpg =600x200)
-![welcome](assets/screenshots/welcome.jpg =600x200)
-![weather](assets/screenshots/weather_sc.jpg =600x200)
 
+
+<img src="assets/screenshots/home.jpg" alt="Home Screen" width="200" height="600">
+<img src="assets/screenshots/disaster_preparedness.jpg" alt="Disaster Preparedness" width="600" height="200">
+<img src="assets/screenshots/maps.jpg" alt="Maps Screen" width="200" height="600">
+<img src="assets/screenshots/menu.jpg" alt="Menu Screen" width="200" height="600">
+<img src="assets/screenshots/news.jpg" alt="News Screen" width="200" height="600">
+<img src="assets/screenshots/notification.jpg" alt="Notifications Screen" width="200" height="600">
+<img src="assets/screenshots/profile.jpg" alt="Profile Screen" width="200" height="600">
+<img src="assets/screenshots/welcome.jpg" alt="Welcome Screen" width="200" height="600">
+<img src="assets/screenshots/weather_sc.jpg" alt="Weather Screen" width="200" height="600">
 
 
 ---

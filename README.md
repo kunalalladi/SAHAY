@@ -103,15 +103,15 @@ Welcome to the **Disaster Management App**, a comprehensive and intuitive platfo
 ---
 
 ## Screenshots
-![home](assets/screenshots/home.jpg)
-![disaster preparedness](assets/screenshots/disaster_preparedness.jpg)
-![maps](assets/screenshots/maps.jpg)
-![menu](assets/screenshots/menu.jpg)
-![news](assets/screenshots/news.jpg)
-![notifications](assets/screenshots/notification.jpg)
-![profile](assets/screenshots/profile.jpg)
-![welcome](assets/screenshots/welcome.jpg)
-![weather](assets/screenshots/weather_sc.jpg)
+![home](assets/screenshots/home.jpg =600x200)
+![disaster preparedness](assets/screenshots/disaster_preparedness.jpg =600x200)
+![maps](assets/screenshots/maps.jpg =600x200)
+![menu](assets/screenshots/menu.jpg =600x200)
+![news](assets/screenshots/news.jpg =600x200)
+![notifications](assets/screenshots/notification.jpg =600x200)
+![profile](assets/screenshots/profile.jpg =600x200)
+![welcome](assets/screenshots/welcome.jpg =600x200)
+![weather](assets/screenshots/weather_sc.jpg =600x200)
 
 
 
